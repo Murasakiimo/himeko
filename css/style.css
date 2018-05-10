@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    width: 960px;
+    margin-left: 200px;
+    padding: 0px;
+}
+
+header p{
+    font-size: 32px;
+}
+
+ul{
+    position: absolute;
+    margin: -70px 0 0 740px;
+}
+
+ul li{
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+figure {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+figcaption{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 32px;
+}
+
+button{
+    margin-left: 350px;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+footer p{
+    text-align: center;
+}
